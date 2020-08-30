@@ -2,7 +2,7 @@
 
 Multiple GPIO python codes for i/o in nano 
 
-# Jetson Nano !
+# Jetson Nano
 
   - Multiple led switch and camera capture integration
   - camera image can be captured on switch input 
